@@ -1,4 +1,8 @@
+import os
 name = "Reiko"
-f"She said her name is {name}."
+tst = f"She said her name is {name}."
 
-globals
+wd = os.getcwd()
+
+print(tst)
+print(wd)

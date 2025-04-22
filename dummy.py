@@ -1,3 +1,6 @@
-dummy = True
+# dummy = True
+
+print("dummy")
+
 
 # dummy
